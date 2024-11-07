@@ -5,7 +5,7 @@ This project provides a Python script to create a Talking Avatar using Microsoft
 ## Demo
 Check out a demo of the talking avatar in action:
 
-![Demo Video](https://raw.githubusercontent.com/MOo207/azure-text-to-speech-avatar/master/demo.webm)
+[Watch the Demo Video](https://github.com/MOo207/azure-text-to-speech-avatar/raw/master/demo.webm)
 
 ## Features
 - **Arabic Language Support**: Utilizes the `ar-SA-HamedNeural` voice for natural Arabic speech.
